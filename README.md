@@ -1,4 +1,4 @@
-<!-- ![Coding Storm's Github Stats](https://github-readme-stats.vercel.app/api?username=Coding-Storm-Official&bg_color=30,ed1c24,00aeef&title_color=fff&text_color=fff)-->
+![Coding Storm's Github Stats](https://github-readme-stats.vercel.app/api?username=Coding-Storm-Official&bg_color=30,ed1c24,00aeef&title_color=fff&text_color=fff)
 
 # Hello! I am Amey Sharma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## Languages I use:
