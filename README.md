@@ -10,7 +10,7 @@
 ## Featured Projects:-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coding-Storm-Official&theme=blue-green&repo=Zero-Trust)](https://github.com/Coding-Storm-Official/Zero-Trust)
 &nbsp; &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coding-Storm-Official&theme=blue-green&repo=Thunder-Port-Scanner)](https://github.com/Coding-Storm/Thunder-Port-Scanner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coding-Storm-Official&theme=blue-green&repo=Recode-and-Rewind)](https://github.com/Coding-Storm-Official/Recode-and-Rewind)
 
 ## DSA Practice:- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coding-Storm-Official&theme=blue-green&repo=Data-Structures-and-Algorithims)](https://github.com/Coding-Storm-Official/Data-Structures-and-Algorithims)
